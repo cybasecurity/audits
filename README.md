@@ -1,3 +1,7 @@
+![Cyba-Blockchain-Security](https://github.com/user-attachments/assets/cb7baab3-e435-401d-89ae-881e3e28c749)
+
+---
+
 # Cyba Blockchain Security
  
 **Cyba Blockchain Security** is a security firm founded by [Alin Barbatei (ABA)](https://github.com/abarbatei/audits), focused on rigorous smart contract and protocol security across EVM and Bitcoin L2 ecosystems, including Stacks (Clarity).
