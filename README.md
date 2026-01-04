@@ -1,4 +1,4 @@
-![Cyba-Blockchain-Security](https://github.com/user-attachments/assets/cb7baab3-e435-401d-89ae-881e3e28c749)
+![Cyba-Blockchain-Security](https://github.com/user-attachments/assets/a3d80987-a2c5-4bf1-95b0-5939a7aa640d)
 
 ---
 
