@@ -18,6 +18,7 @@ The following security audit reports were performed by the Cyba team and release
 
 | Date | Project | Audited Functionality | Ecosystem & Tech | Report |
 |:-|:-|:-|:-|:-|
+| ``2026.May`` | [Granite](https://www.granite.world/) | Protocol Security Enhancements | ![Stacks-Clarity](https://img.shields.io/badge/Stacks-Clarity-D7E82A?labelColor=fc6432) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/2026-05-22-Granite-Security-Enhancements-Audit.pdf) |
 | ``2026.Mar`` | [Accountable](https://www.accountable.capital/) | Strategy Extension Module | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | ![Private](https://img.shields.io/badge/Private-grey) |
 | ``2026.Feb`` | Undisclosed | Cross-chain protocol | ![Stacks-Clarity](https://img.shields.io/badge/Stacks-Clarity-D7E82A?labelColor=fc6432) | ![Private](https://img.shields.io/badge/Private-grey) |
 | ``2025.Jun`` | [Liquify](https://liquify.ventures/) | Referral manager upgrade | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf)| |
@@ -31,4 +32,4 @@ The following security audit reports were performed by the Cyba team and release
 | ``2024.Jun`` | [Granite](https://www.granite.world/) | Borrowing and lending protocol | ![Stacks-Clarity](https://img.shields.io/badge/Stacks-Clarity-D7E82A?labelColor=fc6432) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/2024-08-12-Granite-Audit.pdf) |
 | ``2024.May`` | [b0rder1ess](https://borderless.art/) | Extension on previous NAP audit | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | ``2024.Feb`` | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
-| ``2023.Dec`` | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |[![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/Ithil-v2-Security-Review-v105.pdf) |
+| ``2023.Dec`` | Ithil | Borrowing, lending and options logic | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |[![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/Ithil-v2-Security-Review-v105.pdf) |
