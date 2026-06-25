@@ -18,6 +18,7 @@ The following security audit reports were performed by the Cyba team and release
 
 | Date | Client | Audit | Ecosystem & Tech | Report |
 |:-|:-|:-|:-|:-|
+| ``2026.Jun`` | [Accountable](https://www.accountable.capital/) | Staking Module | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | ![Private](https://img.shields.io/badge/Private-grey) |
 | ``2026.Jun`` | [Granite](https://www.granite.world/) | Liquidation Improvements | ![Stacks-Clarity](https://img.shields.io/badge/Stacks-Clarity-D7E82A?labelColor=fc6432) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/2026-06-03-Granite-Liquidation-Improvements-Audit.pdf) |
 | ``2026.May`` | [Granite](https://www.granite.world/) | Protocol Security Enhancements | ![Stacks-Clarity](https://img.shields.io/badge/Stacks-Clarity-D7E82A?labelColor=fc6432) | [![Report](https://img.shields.io/badge/Report-PDF-00D4FF)](reports/2026-05-22-Granite-Security-Enhancements-Audit.pdf) |
 | ``2026.Mar`` | [Accountable](https://www.accountable.capital/) | Strategy Extension Module | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) | ![Private](https://img.shields.io/badge/Private-grey) |
